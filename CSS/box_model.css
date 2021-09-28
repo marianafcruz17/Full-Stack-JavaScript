@@ -1,0 +1,16 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2;
+    margin-left: 30px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 45px auto 55px auto;
+    width: 50%;
+    text-align: center;
+    border: 2px solid;
+    padding: 15px auto 20px auto;
+}

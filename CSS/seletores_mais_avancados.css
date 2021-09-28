@@ -1,0 +1,20 @@
+li a{
+    color: red;
+}
+
+li > a{
+    color: red;
+}
+
+h1 + h3{
+    border: 4px;
+    color: purple;
+}
+
+a[href='/recibo']{
+    color: saddlebrown;
+}
+
+li:nth-of-type(odd){
+    color: green;
+}

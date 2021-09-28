@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: pink;
+    border-color: rgb(219, 165, 48);
+    border-style: dashed;
+    border-width: 5px;
+}
+
+li{
+    color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+body{
+    background-image: url('https://cdn.mos.cms.futurecdn.net/AKbyqTKUkicsYGx3xwe3HA.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.moon{
+    color: violet;
+    font-size: 30px;
+}
+
+#europa{
+    font-size: 20px;
+    color: yellowgreen;
+}
