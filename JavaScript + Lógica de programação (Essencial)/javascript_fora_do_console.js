@@ -1,1 +1,0 @@
-alert("Meu código JS exterto. o/")
