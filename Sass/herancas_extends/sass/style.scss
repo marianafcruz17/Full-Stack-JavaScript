@@ -1,0 +1,25 @@
+.btn{
+    width: 125px;
+    padding: 10px 0px;
+    border-radius: 20px;
+    display: block;
+    margin-top: 10px;
+
+    //herança
+    &.btn-amarelo{
+        background-color: #f0db24;
+    }
+
+    &.btn-azul{
+        background-color: #4324f0;
+        color: white;
+    }
+
+    
+    //extends
+    @extend .btn;  
+    .btn-roxo{
+        background-color: #700374;
+        color: white;
+    }
+}
